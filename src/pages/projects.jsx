@@ -162,7 +162,7 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>Ismail El Khattab&apos;s portfolio | Projects</title>
+        <title>{`Ismail El Khattab&apos;s portfolio | Projects`}</title>
         <meta
           name="description"
           content="Discover the latest web applications I have worked on."

@@ -13,7 +13,7 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>Ismail El Khattab&apos;s portfolio | About</title>
+        <title>{`Ismail El Khattab&apos;s portfolio | About`}</title>
         <meta name="description" content="Learn more about myself." />
       </Head>
       <TransitionEffect />
@@ -36,39 +36,39 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-                Hi, I&apos;m <strong>Ismail</strong>, a recent graduate with a
+                {`Hi, I&apos;m <strong>Ismail</strong>, a recent graduate with a
                 bachelor&apos;s degree in Software Development. I&apos;m all
                 about creating awesome web applications! <strong>Java</strong>{" "}
                 and the <strong>Spring</strong> framework are my go-to for
-                building cool REST APIs and web apps.
+                building cool REST APIs and web apps.`}
               </p>
               <p className="my-4 font-medium">
-                When it comes to user interfaces, I&apos;m a big fan of{" "}
+                {`When it comes to user interfaces, I&apos;m a big fan of{" "}
                 <strong>React</strong> and <strong>Next.js</strong> &#x2d; they
                 make everything so smooth and interactive! These days, I&apos;m
                 using <strong>Tailwind CSS</strong> to style my apps, but
                 I&apos;ve also dabbled with <strong>Bootstrap</strong> in the
-                past.
+                past.`}
               </p>
               <p className="my-4 font-medium">
-                When it&apos;s time to deploy, I love using <strong>AWS</strong>{" "}
+                {`When it&apos;s time to deploy, I love using <strong>AWS</strong>{" "}
                 for its reliability and scalability. But I&apos;m an adventurous
-                dev, so I enjoy exploring other lesser-known cloud services too.
+                dev, so I enjoy exploring other lesser-known cloud services too.`}
               </p>
               <p className="my-4 font-medium">
-                I&apos;m constantly learning and staying up-to-date with the
+                {`I&apos;m constantly learning and staying up-to-date with the
                 latest tech trends. I&apos;ve even picked up a few well-known
-                industry certifications along the way!
+                industry certifications along the way!`}
               </p>
               <p className="my-4 font-medium">
-                Whether I&apos;m working on a website, mobile app, or other
+                {`Whether I&apos;m working on a website, mobile app, or other
                 software product, my unwavering dedication shines through in my
                 commitment to delivering top-notch results that truly cater to
-                the needs of stakeholders.
+                the needs of stakeholders.`}
               </p>
               <p className="font-medium">
-                I&apos;m currently on the lookout for exciting new career
-                opportunities! Let&apos;s build some cool stuff together! 🚀
+                {`I&apos;m currently on the lookout for exciting new career
+                opportunities! Let&apos;s build some cool stuff together! 🚀`}
               </p>
             </div>
             <div

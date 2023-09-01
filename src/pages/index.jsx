@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Ismail El Khattab&apos;s portfolio | Home</title>
+        <title>{`Ismail El Khattab&apos;s portfolio | Home`}</title>
         <meta
           name="description"
           content="Explore my Next.js portfolio and 
@@ -54,11 +54,11 @@ export default function Home() {
                 className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
-                I&apos;m a junior software engineer always eager to learn and
+                {`I&apos;m a junior software engineer always eager to learn and
                 level up my skills. I love turning cool ideas into stuff people
                 can actually use. If you&apos;re curious about me, want my
                 resume, or just feel like checking out the cool stuff I&apos;ve
-                been working on, you&apos;re in the right place!
+                been working on, you&apos;re in the right place!`}
               </p>
               <div className="mt-2 flex items-center self-start lg:self-center">
                 <Link

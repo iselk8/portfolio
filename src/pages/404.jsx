@@ -9,7 +9,7 @@ export default function NotFound() {
   return (
     <>
       <Head>
-        <title>Ismail El Khattab&apos;s portfolio | 404 Page </title>
+        <title>{`Ismail El Khattab&apos;s portfolio | 404 Page`}</title>
         <meta name="description" content="Error - Page not found." />
       </Head>
       <TransitionEffect />
