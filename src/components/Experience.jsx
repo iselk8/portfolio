@@ -72,7 +72,7 @@ and collaborate on issue resolution strategies, resulting in an increased abilit
             companyLink="https://facebook.com"
             time="2021 - Present"
             address="Montréal, QC"
-            work="Utilized the company's knowledge base to diagnose and resolve printer-related problems efficiently. Assisted customers in resolving technical challenges, ensuring smooth printer functionality and user satisfaction."
+            work="Collaborated closely with clients to gather project requirements and provide expertise on web development solutions. Designed and developed visually appealing and responsive websites tailored to client specifications.Ensured websites met high standards of performance, security, and SEO optimization."
           />
 
           <Details
@@ -81,7 +81,7 @@ and collaborate on issue resolution strategies, resulting in an increased abilit
             companyLink="https://facebook.com"
             time="2023"
             address="Western Governors University"
-            work="Utilized the company's knowledge base to diagnose and resolve printer-related problems efficiently. Assisted customers in resolving technical challenges, ensuring smooth printer functionality and user satisfaction."
+            work="Studied a comprehensive curriculum focusing on software engineering principles, programming languages, and practical application development. Acquired a solid foundation in computer science, enabling the design and implementation of innovative software solutions. Developed proficiency in coding, debugging, and collaborating on software projects, with a strong emphasis on problem-solving and critical thinking skills."
           />
 
           <Details
@@ -90,7 +90,7 @@ and collaborate on issue resolution strategies, resulting in an increased abilit
             companyLink="https://amazon.com"
             time="2023"
             address="Montréal, QC"
-            work="Worked on a team responsible for developing Amazon's mobile app, including implementing new features such as product recommendations and user reviews, and optimizing the app's performance and reliability."
+            work="As a Software Developer Intern, actively contributed to real-world software development projects under the guidance of experienced mentors. Participated in the entire software development lifecycle, including coding, testing, and debugging, while gaining practical experience in various programming languages and technologies."
           />
         </ul>
       </div>
