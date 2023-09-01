@@ -11,7 +11,7 @@ export default function Contact() {
   return (
     <>
       <Head>
-        <title>Ismail El Khattab's portfolio | Contact</title>
+        <title>Ismail El Khattab&apos;s portfolio | Contact</title>
         <meta
           name="description"
           content="Get in touch with me to discuss your next project idea."
