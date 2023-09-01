@@ -7,7 +7,7 @@ import Nextdotjssvg from "../../public/images/svgs/nextdotjs.svg";
 import { Nextdotjs } from "./Icons";
 import Tailwind from "../../public/images/skills/tailwind.png";
 import AWS from "../../public/images/skills/aws.png";
-import Git from "../../public/images/skills/git.png";
+import Git from "../../public/images/skills/Git.png";
 import SQL from "../../public/images/skills/sql.png";
 import CSS from "../../public/images/skills/css.png";
 import HTML from "../../public/images/skills/html.png";

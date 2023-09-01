@@ -7,7 +7,7 @@ import Layout from "@/components/Layout";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
-import proj1 from "../../public/images/projects/quizzgpt_mockup.png";
+import proj1 from "../../public/images/projects/QuizzGPT_Mockup.png";
 import proj2 from "../../public/images/projects/ChatApp_Mockup.png";
 import proj3 from "../../public/images/projects/Term_Tracker_Mockup.png";
 
