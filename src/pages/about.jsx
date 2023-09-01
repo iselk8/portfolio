@@ -5,6 +5,8 @@ import Layout from "@/components/Layout";
 import AnimatedText from "@/components/AnimatedText";
 import Image from "next/image";
 import profile from "../../public/images/profile/memoji-waving.png";
+import Skills from "@/components/Skills";
+import Certifications from "@/components/Certifications";
 
 const about = () => {
   return (
@@ -89,6 +91,8 @@ const about = () => {
               />
             </div>
           </div>
+          <Skills />
+          <Certifications />
         </Layout>
       </main>
     </>
