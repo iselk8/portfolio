@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>{`Ismail El Khattab&apos;s portfolio | Home`}</title>
+        <title>Ismail El Khattab&apos;s portfolio | Home</title>
         <meta
           name="description"
           content="Explore my Next.js portfolio and 
