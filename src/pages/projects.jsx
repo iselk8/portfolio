@@ -2,7 +2,7 @@ import React from "react";
 import Head from "next/head";
 import TransitionEffect from "@/components/TransitionEffect";
 
-const projects = () => {
+export default function Projects() {
   return (
     <>
       <Head>
@@ -16,6 +16,4 @@ const projects = () => {
       <TransitionEffect />
     </>
   );
-};
-
-export default projects;
+}

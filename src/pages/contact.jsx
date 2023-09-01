@@ -2,7 +2,7 @@ import React from "react";
 import TransitionEffect from "@/components/TransitionEffect";
 import Head from "next/head";
 
-const contact = () => {
+export default function Contact() {
   return (
     <>
       <Head>
@@ -15,6 +15,4 @@ const contact = () => {
       <TransitionEffect />
     </>
   );
-};
-
-export default contact;
+}

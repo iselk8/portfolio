@@ -5,7 +5,7 @@ import Head from "next/head";
 import Link from "next/link";
 import React from "react";
 
-const NotFound = () => {
+export default function NotFound() {
   return (
     <>
       <Head>
@@ -30,6 +30,4 @@ const NotFound = () => {
       </main>
     </>
   );
-};
-
-export default NotFound;
+}

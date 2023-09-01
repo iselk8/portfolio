@@ -7,8 +7,9 @@ import Image from "next/image";
 import profile from "../../public/images/profile/memoji-waving.png";
 import Skills from "@/components/Skills";
 import Certifications from "@/components/Certifications";
+import Experience from "@/components/Experience";
 
-const about = () => {
+export default function About() {
   return (
     <>
       <Head>
@@ -93,10 +94,9 @@ const about = () => {
           </div>
           <Skills />
           <Certifications />
+          <Experience />
         </Layout>
       </main>
     </>
   );
-};
-
-export default about;
+}
